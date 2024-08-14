@@ -9,6 +9,11 @@ Title: Indel-aware analysis of positive selection
 
 This program calculates dNdS (modified from  Nei-Gojobori 1986) taking into account indels in the pairwise alignment.
 
+**Structure**:
+
+- src/: Contains the Python libraries.
+- scripts/: Contains the main launcher script.
+
 
 **Requirements**:
 
