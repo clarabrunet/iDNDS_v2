@@ -11,7 +11,7 @@ This program calculates dNdS (modified from  Nei-Gojobori 1986) taking into acco
 
 **Structure**:
 
-- src/: Contains the Python libraries.
+-  src/: Contains the Python libraries.
 - scripts/: Contains the main launcher script.
 
 
