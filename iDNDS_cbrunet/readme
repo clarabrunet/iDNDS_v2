@@ -19,6 +19,7 @@ The main launcher script takes a FASTA file as input containing two aligned codo
 ```bash
 python 0_RUN_iDNDS.py <fasta_file>
 
+```
 Output: 
 
 -Nd: Total observed non-synonymous substitutions.
