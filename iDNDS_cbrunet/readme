@@ -1,0 +1,27 @@
+Authors: Clara Brunet Villarejo, Nakamura M, Puigbo P
+Year: 2024
+Title: Indel-aware analysis of positive selection
+
+Reference: ...
+
+This program calculates dNdS (modified from  Nei-Gojobori 1986) taking into account indels in the pairwise alignment
+
+
+Requirements:
+
+Python
+Biopython
+
+
+#########################################################
+# SCRIPTS 
+#########################################################
+
+0_RUN_iDNDS.py 
+
+
+#########################################################
+# OUTPUTS 
+#########################################################
+
+...
