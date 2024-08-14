@@ -26,7 +26,7 @@ Biopython
 The main launcher script takes a FASTA file as input containing two aligned codon sequences.
 
 ```bash
-python 0_RUN_iDNDS.py <fasta_file>
+python iDNDS.py <fasta_file>
 ```
 **Output**: 
 
