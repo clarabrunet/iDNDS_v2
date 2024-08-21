@@ -1,5 +1,5 @@
 # iDNDS
-Authors: Clara Brunet Villarejo, Nakamura M, Puigbo P
+Authors: Clara Brunet Villarejo, Miho Nakamura, Pere Puigbo
 
 Year: 2024
 
