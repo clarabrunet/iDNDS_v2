@@ -11,7 +11,7 @@ This program calculates dNdS (modified from  Nei-Gojobori 1986) taking into acco
 
 **Reference**: 
 
-Saeka Shimochi, Clara Brunet, Margalida Fontcuberta-Rigo, Katja Hrovat, Pere Puigbò, Miho Nakamura (2024) Bone mechano-response is driven by transitions in vertebrate evolution. In preparation. 
+Saeka Shimochi, Clara Brunet, Margalida Fontcuberta-Rigo, Katja Hrovat, Pere Puigbò, Miho Nakamura (2024) **Bone mechano-response is driven by transitions in vertebrate evolution**. In preparation. 
 
 **Structure**:
 
