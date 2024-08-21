@@ -5,13 +5,17 @@ Year: 2024
 
 Title: Indel-aware analysis of positive selection
 
-**Reference**: ...
+**Description**:
 
-This program calculates dNdS (modified from  Nei-Gojobori 1986) taking into account indels in the pairwise alignment.
+This program calculates dNdS (modified from  Nei-Gojobori 1986) taking into account indels in the pairwise alignment. Indels are treated as non-synonymous substitutions in the pair-wise alignment.
+
+**Reference**: 
+
+Saeka Shimochi, Clara Brunet, Margalida Fontcuberta-Rigo, Katja Hrovat, Pere Puigbò, Miho Nakamura (2024) Bone mechano-response is driven by transitions in vertebrate evolution. In preparation. 
 
 **Structure**:
 
--  src/: Contains the Python libraries.
+- src/: Contains the Python libraries.
 - scripts/: Contains the main launcher script.
 
 
