@@ -15,7 +15,7 @@ Saeka Shimochi, Clara Brunet, Margalida Fontcuberta-Rigo, Katja Hrovat, Pere Pui
 
 **Structure**:
 
-- src/: Contains the Python libraries.
+- libs/: Contains the Python libraries.
 - scripts/: Contains the main launcher script.
 
 
