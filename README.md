@@ -41,3 +41,9 @@ python iDNDS.py <fasta_file>
 - pn and ps: Proportion of observed non-synonymous and synonymous changes.
 - dn and ds: Adjusted rates of non-synonymous and synonymous changes.
 -    dN/dS: Positive selection ratio.
+
+**No Resposibility Disclaimer**: 
+
+# No Responsibility Disclaimer
+
+The authors and contributors of this repository take no responsibility for any harm or damages that may arise from the use of this software. This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
