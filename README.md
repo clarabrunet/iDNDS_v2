@@ -7,7 +7,7 @@ Title: Indel-aware analysis of positive selection
 
 **Description**:
 
-This program calculates dNdS (modified from  Nei-Gojobori 1986) taking into account indels in the pairwise alignment. Indels are treated as non-synonymous substitutions in the pair-wise alignment.
+This program calculates non-synonymous (dN) and synonymous (dS) substitution ratio (dN/dS), using an algorithem based on Nei-Gojobori (1986), that takes into account indels in the pairwise alignment. Indels are treated as non-synonymous substitutions in the pair-wise alignment.
 
 **Reference**: 
 
