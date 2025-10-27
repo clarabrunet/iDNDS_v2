@@ -64,8 +64,9 @@ data/sample/example.fasta
 Expected runtime: less than 5 seconds on a normal desktop computer.
 
 To reproduce the demo results, run:
+```bash
 bash scripts/run_demo.sh
-
+```
 
 **Output**: 
 
