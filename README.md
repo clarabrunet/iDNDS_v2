@@ -15,23 +15,21 @@ Saeka Shimochi, Clara Brunet, Margalida Fontcuberta-Rigo, Katja Hrovat, Pere Pui
 
 **Structure**:
 
-iDNDS_v2/
-│
-├── src/ # Python source code
-│ └── main.py # Main calculation script
-│
-├── scripts/ # Execution scripts
-│ └── run_demo.sh # Example demo launcher
-│
-├── data/
-│ ├── sample/example.fasta # Demo FASTA input file
-│ └── expected_output/ # Output folder
-│
-├── LICENSE # License file (CC BY 4.0)
-├── CITATION.cff # Citation metadata
-├── CHANGELOG.md # Version tracking
-├── requirements.txt # Python dependencies
-└── README.md # Documentation
+- **src/** – Python source code  
+  - `main.py` – Main calculation script  
+
+- **scripts/** – Execution scripts  
+  - `run_demo.sh` – Example demo launcher  
+
+- **data/** – Input and output data  
+  - `sample/example.fasta` – Demo FASTA input file  
+  - `expected_output/` – Output folder  
+
+- **LICENSE** – License file (CC BY 4.0)  
+- **CITATION.cff** – Citation metadata  
+- **CHANGELOG.md** – Version tracking  
+- **requirements.txt** – Python dependencies  
+- **README.md** – Documentation
 
 
 ## 4. Requirements & Installation
