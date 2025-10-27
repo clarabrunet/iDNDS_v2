@@ -15,22 +15,51 @@ Saeka Shimochi, Clara Brunet, Margalida Fontcuberta-Rigo, Katja Hrovat, Pere Pui
 
 **Structure**:
 
-- libs/: Contains the Python libraries.
-- script/: Contains the main launcher script.
+iDNDS_v2/
+│
+├── src/ # Python source code
+│ └── main.py # Main calculation script
+│
+├── scripts/ # Execution scripts
+│ └── run_demo.sh # Example demo launcher
+│
+├── data/
+│ ├── sample/example.fasta # Demo FASTA input file
+│ └── expected_output/ # Output folder
+│
+├── LICENSE # License file (CC BY 4.0)
+├── CITATION.cff # Citation metadata
+├── CHANGELOG.md # Version tracking
+├── requirements.txt # Python dependencies
+└── README.md # Documentation
 
 
-**Requirements**:
+## 4. Requirements & Installation
 
-Python
+This software requires **Python 3.9+** and the following libraries:
 
-Biopython
+- Biopython  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
 
+To install all dependencies:
+
+```bash
+pip install -r requirements.txt
+
+```
 **Usage**:
 
 The main launcher script takes a FASTA file as input containing two aligned codon sequences.
 
 ```bash
 python iDNDS.py <fasta_file>
+```
+The input FASTA file used in the demo is located at:
+```bash
+data/sample/example.fasta
 ```
 **Output**: 
 
