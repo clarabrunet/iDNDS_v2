@@ -26,8 +26,7 @@ Saeka Shimochi, Clara Brunet, Margalida Fontcuberta-Rigo, Katja Hrovat, Pere Pui
   - `expected_output/` – Output folder  
 
 - **LICENSE** – License file (CC BY 4.0)  
-- **CITATION.cff** – Citation metadata  
-- **CHANGELOG.md** – Version tracking  
+- **CITATION.cff** – Citation metadata    
 - **requirements.txt** – Python dependencies  
 - **README.md** – Documentation
 
