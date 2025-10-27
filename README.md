@@ -31,7 +31,7 @@ Saeka Shimochi, Clara Brunet, Margalida Fontcuberta-Rigo, Katja Hrovat, Pere Pui
 - **README.md** – Documentation
 
 
-## 4. Requirements & Installation
+## 4. Requirements and Installation
 
 This software requires **Python 3.9+** and the following libraries:
 
