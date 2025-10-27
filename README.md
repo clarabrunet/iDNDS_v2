@@ -47,6 +47,9 @@ To install all dependencies:
 pip install -r requirements.txt
 
 ```
+- Tested on Python 3.11.4 under Windows 10 and Ubuntu 22.04.
+- Typical install time: less than 2 minutes on a standard desktop computer
+
 **Usage**:
 
 The main launcher script takes a FASTA file as input containing two aligned codon sequences.
@@ -58,6 +61,12 @@ The input FASTA file used in the demo is located at:
 ```bash
 data/sample/example.fasta
 ```
+Expected runtime: less than 5 seconds on a normal desktop computer.
+
+To reproduce the demo results, run:
+bash scripts/run_demo.sh
+
+
 **Output**: 
 
 - Nd: Total observed non-synonymous substitutions.
